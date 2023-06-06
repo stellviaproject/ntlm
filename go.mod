@@ -1,4 +1,4 @@
-module github.com/carlosevm/ntlm
+module github.com/stellviaproject/ntlm
 
 go 1.19
 
